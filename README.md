@@ -32,4 +32,5 @@ Loops & Conditional Statements
 
 
 🎯 Objective
+
 To understand how basic financial tracking systems work while improving Python programming and logical thinking skills through a real-world inspired project.
